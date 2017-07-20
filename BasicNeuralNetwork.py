@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[13]:
-
 #basic neural network trained on performing XOR 
 
 import numpy as np
@@ -35,14 +30,3 @@ for iter in xrange(10000):
     
 print "output after training"
 print l1
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
